@@ -1,5 +1,3 @@
-console.log('test');
-
 ((g) => {
   var h,
     a,
